@@ -1,0 +1,86 @@
+h1{
+    font-style: italic;
+font-weight: bold;
+font-size: 30px;
+font-family: arial, sans-serif;
+
+}
+
+.body2example{
+    background-color: black;
+}
+
+.h12example{
+    color: blanchedalmond;
+}
+
+
+
+#body3example{
+    background-color: brown;
+}
+
+#h13example{
+    color: chartreuse;
+}
+
+
+
+.body4example{
+    background-color: darkgoldenrod;
+}
+
+.h14example{
+    color: darkmagenta;
+}
+
+
+
+
+#body5example{
+    background-color: darkolivegreen;
+}
+
+#h15example{
+    color: darkred;
+}
+
+
+
+.body7example{
+    background-color:dimgrey;
+}
+
+.h17example{
+    color: blanchedalmond;
+}
+
+
+
+#body8example{
+    background-color: white;
+}
+
+#h18example{
+    color: black;
+}
+
+
+
+.body9example{
+    background-color: gold;
+}
+
+.h19example{
+    color: darkmagenta;
+}
+
+
+
+#body10example{
+    background-color: indigo;
+}
+
+#h110example{
+    color: darkred;
+}
